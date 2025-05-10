@@ -23,7 +23,7 @@ This server provides a REST API endpoint to generate authentication tokens for A
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/agora-token-server.git
+   git clone https://github.com/farukcakal/agora-token-server.git
    cd agora-token-server
    ```
 
